@@ -1,0 +1,11 @@
+{
+  "screen.armorhud.title": "Armor HUD",
+  "option.armorhud.orientation": "Ориентация",
+  "option.armorhud.orientation.horizontal": "Горизонтально",
+  "option.armorhud.orientation.vertical": "Вертикально",
+  "option.armorhud.offset_x": "Смещение по X: %s",
+  "option.armorhud.offset_y": "Смещение по Y: %s",
+  "option.armorhud.icon_size": "Размер иконки: %s",
+  "option.armorhud.spacing": "Расстояние: %s",
+  "button.armorhud.done": "Готово"
+}

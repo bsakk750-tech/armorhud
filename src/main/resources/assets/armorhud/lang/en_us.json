@@ -1,0 +1,11 @@
+{
+  "screen.armorhud.title": "Armor HUD",
+  "option.armorhud.orientation": "Orientation",
+  "option.armorhud.orientation.horizontal": "Horizontal",
+  "option.armorhud.orientation.vertical": "Vertical",
+  "option.armorhud.offset_x": "Horizontal offset: %s",
+  "option.armorhud.offset_y": "Vertical offset: %s",
+  "option.armorhud.icon_size": "Icon size: %s",
+  "option.armorhud.spacing": "Spacing: %s",
+  "button.armorhud.done": "Done"
+}

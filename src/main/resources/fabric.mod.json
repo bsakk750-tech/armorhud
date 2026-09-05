@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "armorhud",
+  "version": "${version}",
+  "name": "Armor HUD",
+  "description": "Shows equipped armor durability next to the hotbar.",
+  "authors": ["Armor HUD"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["ru.armorhud.client.ArmorHudClient"],
+    "modmenu": ["ru.armorhud.client.ArmorHudModMenu"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.3",
+    "minecraft": ">=1.21.11 <1.22",
+    "fabric-api": "*"
+  },
+  "suggests": { "modmenu": "*" }
+}
